@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+server/.env
+client/.env
+
+server/.agents/
+server/.claude/
+server/.cursor/
+server/.devin/
+server/.windsurf/
